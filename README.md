@@ -74,11 +74,11 @@ src/
 
 ### 1. Dashboard dan Manajemen Tugas
 
-![Dashboard Aplikasi](screenshots\dashboard.png)
+![Dashboard Aplikasi](./dashboard.png)
 
 ### 2. Gantt Chart
 
-![Gantt Chart Aplikasi](screenshots\gantchart.png)
+![Gantt Chart Aplikasi](./gantchart.png)
 
 ## Teknologi
 
