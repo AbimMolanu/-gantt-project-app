@@ -70,6 +70,16 @@ src/
 - Saat pertama dibuka (atau setelah **Reset**), aplikasi memuat **data contoh** proyek 19 tugas, 5 anggota, weekend Sabtu-Minggu, dan 2 hari libur khusus.
 - **Ekspor** mengunduh seluruh data sebagai JSON; **Impor** memuatnya kembali (divalidasi & dinormalisasi).
 
+## Screenshot Aplikasi
+
+### 1. Dashboard dan Manajemen Tugas
+
+![Dashboard Aplikasi](projekarsi\screenshots\Cuplikan layar 2026-10-14 233655.png)
+
+### 2. Gantt Chart
+
+![Gantt Chart Aplikasi](projekarsi\screenshots\Cuplikan layar 2026-10-14 233715.png)
+
 ## Teknologi
 
 - [React 19](https://react.dev) + [TypeScript](https://www.typescriptlang.org) (strict)
